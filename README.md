@@ -3,7 +3,7 @@
 <img align = "right" alt = "person coding gif" width = "400" src = "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armughanyaqoob&label=Profile%20views&color=0e75b6&style=flat" alt="armughanyaqoob" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and AI Projectss**
+- 🔭 I’m currently working on **Machine Learning and AI Projects**
 
 - 🌱 I’m currently learning **Neural Networks and Computer Vision**
 
