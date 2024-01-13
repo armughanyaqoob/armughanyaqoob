@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Neural Networks and Computer Vision**
 
-- 👨‍💻 All of my projects are available on [this website https://armughanyaqoob.github.io/Portfolio/](this website https://armughanyaqoob.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on this website https://armughanyaqoob.github.io/Portfolio/
 
 - 📫 How to reach me **armughanyaqoob1433@gmail.com**
 
