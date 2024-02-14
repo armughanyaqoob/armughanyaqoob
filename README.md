@@ -1,7 +1,7 @@
 ![logo](https://github.com/armughanyaqoob/armughanyaqoob/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I am Muhammad Armughan Yaqoob</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align = "right" alt = "person coding gif" width = "400" src = "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"
+<img align = "right" alt = "person coding gif" width = "400" src = "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"</img>
 
 - 🔭 I’m currently working on **Machine Learning and AI Projects**
 
